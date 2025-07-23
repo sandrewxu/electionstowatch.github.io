@@ -1,0 +1,52 @@
+{
+  "lastUpdated": "2025-07-22T22:57:00Z",
+  "contactEmail": "sandrewxu@gmail.com",
+  "electionData": {
+    "AZ": {
+      "elections": [
+        {
+          "title": "Senate Primary",
+          "date": "August 6, 2024",
+          "candidates": "Kari Lake (R), Mark Lamb (R), Ruben Gallego (D)",
+          "stakes": "Primary election to determine candidates for the seat currently held by Kyrsten Sinema (I)."
+        }
+      ]
+    },
+    "MI": {
+      "elections": [
+        {
+          "title": "U.S. House - District 8",
+          "date": "November 5, 2024",
+          "candidates": "Paul Junge (R) vs. Dan Kildee (D)",
+          "stakes": "A key competitive district that could influence control of the U.S. House."
+        }
+      ]
+    },
+    "PA": {
+      "elections": [
+        {
+          "title": "Senate Election",
+          "date": "November 5, 2024",
+          "candidates": "Dave McCormick (R) vs. Bob Casey Jr. (D)",
+          "stakes": "A critical race for control of the U.S. Senate."
+        },
+        {
+          "title": "Attorney General",
+          "date": "November 5, 2024",
+          "candidates": "Dave Sunday (R) vs. Eugene DePasquale (D)",
+          "stakes": "State-level race for the chief law enforcement officer."
+        }
+      ]
+    },
+    "NV": {
+      "elections": [
+        {
+          "title": "Senate Election",
+          "date": "November 5, 2024",
+          "candidates": "Sam Brown (R) vs. Jacky Rosen (D)",
+          "stakes": "Another key race that will impact the Senate majority."
+        }
+      ]
+    }
+  }
+} 
